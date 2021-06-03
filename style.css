@@ -1,5 +1,36 @@
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
 }
+header {
+  align: center;
+}
+figure {
+  align: center;
+}
+a.navbar {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: blueviolet;
+}
+
+figcaption {
+  font-size: smaller;
+}
+
+p#featuredproperty {
+  width: 800px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+div#details {
+  float: left;
+  text-align: center;
+  background-color: coral;
+  width: 25%;
+}
+
